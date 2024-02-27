@@ -6,7 +6,7 @@
 ### About me :eyes:
 
 - :dart: Software Developer | Python Programmer | CyberSec Enthusiast
-- :e-mail: Ask me about anything ; **[nidith@usa.com](mailto:nidith@usa.com)**
+- :e-mail: Ask me about anything ; **[nidith@usa.com](mailto:nidith@usa.com)** | **[nidith@usa.com](https://www.linkedin.com/in/nidith/)** 
 
 <!--![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&hide_border=true)!-->
 
