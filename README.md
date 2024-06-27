@@ -3,7 +3,7 @@
 </div>
 <!-- ### Hey 👋, I'm [Nidith]() 👨‍💻 -->
 
-👨‍🎓 B.E in Information Science from the **[K.N.S Institute of technology](https://knsit.com/)** 
+👨‍🎓 Pursuing B.E in Information Science from the **[K.N.S Institute of technology](https://knsit.com/)** 
 
 ### About me :eyes:
 
