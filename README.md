@@ -1,5 +1,7 @@
 <div style="width: 100%;">
-  <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/0xfarben/0xfarben/blame/main/welcome.svg">
+    <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 <!-- ### Hey 👋, I'm [Nidith]() 👨‍💻 -->
 
