@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Nidith V S</h1>
 <div style="width: 100%;">
   <a href="https://github.com/0xfarben/0xfarben/blob/main/readme.svg">
     <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
