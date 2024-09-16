@@ -28,14 +28,7 @@
 0xfarben/0xfarben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Nidith V S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xfarben&label=Profile%20views&color=0e75b6&style=flat" alt="0xfarben" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xfarben" alt="0xfarben" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
