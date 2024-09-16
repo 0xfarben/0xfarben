@@ -17,15 +17,16 @@
 
 ### Languages and Tools :computer:
 
-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,rust)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 - [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=bash,aws,azure,gcp,kubernetes,docker)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=firebase,heroku)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=selenium,postman,linux,git)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=selenium,postman,github,git)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,kali)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xfarben&show_icons=true&locale=en&layout=compact" alt="0xfarben" /></p>
 
