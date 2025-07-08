@@ -28,10 +28,8 @@
 - [![My Skills](https://skillicons.dev/icons?i=selenium,postman,github,git)]()
 - [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,kali)]()
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xfarben&show_icons=true&locale=en&layout=compact" alt="0xfarben" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&locale=en" alt="0xfarben" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xfarben&show_icons=true&locale=en&layout=compact&theme=radical" alt="0xfarben" /></p>
 
 ![Nidith's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfarben&" alt="0xfarben" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfarben&theme=radical" alt="0xfarben" /></p>
