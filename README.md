@@ -110,22 +110,14 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/0xfarben/0xfarben/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/0xfarben/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=project1&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=FinForesight&theme=tokyonight"/>
   </a>
   <a href="https://github.com/0xfarben/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=project2&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=event-iq&theme=tokyonight"/>
   </a>
 </div>
 
