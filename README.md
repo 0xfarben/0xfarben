@@ -1,104 +1,171 @@
-<h1 align="center">Hi 👋, I'm Nidith V S</h1>
+# 👋 Hello, I'm Nidith V S
 
 <div align="center">
-  <a href="https://github.com/0xfarben/0xfarben/blob/main/readme.svg ">
-    <img src="readme.svg" width="80%" alt="Click to see the source">
+  
+  ### 🚀 Aspiring Software Developer | 🐍 Python Programmer | 🔐 CyberSec Enthusiast
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidith/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsnidith@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xfarben)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=0xfarben&color=blueviolet&style=flat-square)
+  
+</div>
+
+---
+
+## 🎯 About Me
+
+```python
+class NidithVS:
+    def __init__(self):
+        self.name = "Nidith V S"
+        self.role = "Aspiring Software Developer"
+        self.languages = ["Python", "Java", "C++", "JavaScript", "Rust"]
+        self.specialties = ["Web Development", "Machine Learning", "Cybersecurity"]
+        self.currently_learning = ["Advanced Python", "Cloud Technologies", "DevOps"]
+        self.fun_fact = "I love solving complex problems and building innovative solutions!"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = NidithVS()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfarben&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xfarben&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xfarben&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/0xfarben/0xfarben/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/0xfarben/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=project1&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/0xfarben/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=project2&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🎯 Current Focus
 
-👋 Hey there! I'm **Nidith V S**, an aspiring **Software Developer** passionate about building cool stuff with code.  
-Currently pursuing **B.E in Information Science** at **[K.N.S Institute of Technology](https://knsit.com/ )**.
-
-🎯 Skills: Python | Cybersecurity | Web Development | Data Analysis  
-✉️ Reach me via [vsnidith@gmail.com](mailto:vsnidith@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nidith/ )
+- 🔭 Working on **Machine Learning Projects**
+- 🌱 Learning **Advanced Cloud Technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Web Development, Cybersecurity**
+- 📫 How to reach me: **vsnidith@gmail.com**
+- ⚡ Fun fact: **I debug code faster than I can drink coffee!** ☕
 
 ---
 
-### 💻 Languages & Tools
+## 📈 Activity Graph
 
-#### Programming Languages
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,rust" alt="Languages" />
-</div>
-
-#### Frontend & Frameworks
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="Frontend" />
-</div>
-
-#### Backend & APIs
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Backend" />
-</div>
-
-#### Machine Learning
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=tensorflow,sklearn" alt="ML" />
-  <a href=" https://pandas.pydata.org/ " target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg " width="40" height="40" alt="Pandas" /></a>
-  <a href="https://seaborn.pydata.org/ " target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg " width="40" height="40" alt="Seaborn" /></a>
-</div>
-
-#### Databases
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="Databases" />
-</div>
-
-#### DevOps & Cloud
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=bash,aws,azure,gcp,kubernetes,docker" alt="DevOps" />
-</div>
-
-#### Hosting & Deployment
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=firebase,heroku" alt="Hosting" />
-</div>
-
-#### Web Frameworks
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=django,flask" alt="Frameworks" />
-</div>
-
-#### Tools & Utilities
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=selenium,postman,github,git" alt="Tools" />
-</div>
-
-#### Operating Systems
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src=" https://skillicons.dev/icons?i=ubuntu,linux,kali" alt="OS" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xfarben&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 💭 Dev Quote
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; gap: 20px;">
-  <img src=" https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src=" https://github-readme-streak-stats.herokuapp.com/?user=0xfarben&theme=dark" alt="Streak Stats" />
-  <img src=" https://github-readme-stats.vercel.app/api/top-langs?username=0xfarben&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🧠 Tech Interests
-
-- Full Stack Development
-- Cybersecurity
-- Data Science
-- Cloud Computing
-- Automation & Scripting
-
----
-
-### 📣 Let’s Connect!
-
-If you want to collaborate, discuss tech, or just hang out — feel free to reach out!
-
-📧 Email: [vsnidith@gmail.com](mailto:vsnidith@gmail.com)  
-🔗 LinkedIn: [Nidith V S]( https://www.linkedin.com/in/nidith/ )  
-
-🚀 Happy coding!
+<div align="center">
+  
+  ### 🤝 Connect with me
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidith/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsnidith@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xfarben)
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+  
+</div>
