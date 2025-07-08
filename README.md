@@ -32,4 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&locale=en" alt="0xfarben" /></p>
 
+![Nidith's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfarben&" alt="0xfarben" /></p>
