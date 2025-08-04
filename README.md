@@ -100,54 +100,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xfarben&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/0xfarben/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=FinForesight&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/0xfarben/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xfarben&repo=event-iq&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Machine Learning Projects**
-- 🌱 Learning **Advanced Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Web Development, Cybersecurity**
-- 📫 How to reach me: **vsnidith@gmail.com**
-- ⚡ Fun fact: **I debug code faster than I can drink coffee!** ☕
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xfarben&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
 <div align="center">
   
   ### 🤝 Connect with me
