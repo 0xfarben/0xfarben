@@ -74,8 +74,10 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xfarben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfarben&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=0xfarben&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Nidith%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=0xfarben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xfarben&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
