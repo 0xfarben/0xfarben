@@ -51,23 +51,23 @@ me.say_hi()
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts)](https://github.com/0xfarben)
 
 **Frontend & Backend**
 
-[![Web](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,redux,nodejs,express,spring,django,fastapi,flask)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,redux,nodejs,express,spring,django,fastapi,flask)](https://github.com/0xfarben)
 
 **AI / ML**
 
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://github.com/0xfarben)
 
 **Databases & Caching**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,redis)](https://github.com/0xfarben)
 
 **Cloud, DevOps & Tools**
 
-[![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,grafana,prometheus,git,gitlab,postman,selenium,firebase,vercel)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,grafana,prometheus,git,gitlab,postman,selenium,firebase,vercel)](https://github.com/0xfarben)
 
 ---
 
@@ -75,8 +75,9 @@ me.say_hi()
 
 <div align="center">
   
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=0xfarben&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Nidith%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xfarben&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/?username=0xfarben&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Nidith%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="nidith-github-stats"/>
+  
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xfarben&layout=compact&langs_count=8&theme=tokyonight"  alt="nidith-top-languages"/>
 </div>
 
 <div align="center">
